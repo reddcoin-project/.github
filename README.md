@@ -1,1 +1,5 @@
-# .github
+# Reddcoin Project
+
+Reddcoin (RDD) is the original social currency — a digital asset purpose-built for tipping, micropayments, and rewarding content across social platforms. Launched in 2014 with a unique Proof-of-Stake-Velocity (PoSV) consensus mechanism, Reddcoin incentivizes both ownership and active participation in the network. Our mission is to make digital currency accessible, social, and seamlessly integrated into everyday online interactions.
+
+We're actively developing the next generation of Reddcoin infrastructure, including protocol upgrades (SegWit, Taproot), the ReddID decentralized identity system, cross-chain bridges, NFT support, and native social tipping integrations for platforms like Bluesky and the fediverse. Development is guided by our formal [Reddcoin Enhancement Proposal (REP)](https://github.com/reddcoin-project) process. Contributions, feedback, and community participation are always welcome — join us on [Telegram](https://t.me/reddcoin) or explore our repositories to get involved.
