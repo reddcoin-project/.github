@@ -22,8 +22,9 @@ The network operates using a Proof-of-Stake-Velocity (PoSV v2) consensus mechani
 ## Documentation
 
 - [Website](https://www.reddcoin.com)
+- [Developer Documentation](https://docs.reddcoin.com)
 - [ReddPaper](https://redd.love)
-- [Developer Documentation](https://dev.reddcoin.com)
+
 
 ## License
 
